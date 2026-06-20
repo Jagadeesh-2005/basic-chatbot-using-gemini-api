@@ -127,11 +127,13 @@ many other fields.
 
 ### Main Interface
 
-![Chatbot GUI](images/chatbot-gui.png)
+<img width="1920" height="1020" alt="Screenshot 2026-06-20 125725" src="https://github.com/user-attachments/assets/deac8037-e1db-40c2-b5a5-ae71ffb4723c" />
+
 
 ### Conversation Example
 
-![Conversation](images/chatbot-conversation.png)
+<img width="1920" height="1020" alt="Screenshot 2026-06-20 125551" src="https://github.com/user-attachments/assets/7c23827d-9e23-456e-b0dc-b5c9cc0dc424" />
+
 
 ---
 
